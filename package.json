@@ -1,0 +1,29 @@
+{
+  "name": "goit-nodejs-hw-01-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlesiaTr/goit-nodejs-hw-01-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlesiaTr/goit-nodejs-hw-01-cli/issues"
+  },
+  "homepage": "https://github.com/OlesiaTr/goit-nodejs-hw-01-cli#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.2",
+    "nodemon": "^2.0.21",
+    "prettier": "2.4.1"
+  }
+}
