@@ -25,5 +25,8 @@
     "eslint-plugin-import": "^2.25.2",
     "nodemon": "^2.0.21",
     "prettier": "2.4.1"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
   }
 }
